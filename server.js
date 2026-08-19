@@ -44,7 +44,7 @@ const MODEL_MAPPING = {
   'mistral': 'mistralai/mistral-medium-3.5-128b',
   'nemotron': 'nvidia/nemotron-3-nano-omni-30b-a3b-reasoning',
   'nemotron-ultra': 'nvidia/nemotron-3-ultra-550b-a55b',
-  'nemotron-super': 'nvidia/nemotron-3-ultra-550b-a55b'
+  'gemma': 'google/gemma-4-31b-it'
 };
 
 // Root endpoint
