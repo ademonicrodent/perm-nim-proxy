@@ -43,6 +43,7 @@ const MODEL_MAPPING = {
   'minimax': 'minimaxai/minimax-m2.7',
   'mistral': 'mistralai/mistral-medium-3.5-128b',
   'nemotron': 'nvidia/nemotron-3-nano-omni-30b-a3b-reasoning'
+  'nemotron-super': 'nvidia/nemotron-3-super-120b-a12b'
 };
 
 // Root endpoint
