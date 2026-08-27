@@ -36,14 +36,15 @@ const MODEL_MAPPING = {
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'gemini-pro': 'moonshotai/kimi-k2.5',
-  'deepseek-v4': 'deepseek-ai/deepseek-v4-pro',
-  'deepseek-flash': 'deepseek-ai/deepseek-v4-flash',
+  'deepseek-v4': 'deepseek-ai/deepseek-v4-pro-0813',
+  'deepseek-flash': 'deepseek-ai/deepseek-v4-flash-0731',
   'glm': 'z-ai/glm-5.2',
   'stepfun': 'stepfun-ai/step-3.7-flash',
   'minimax': 'minimaxai/minimax-m2.7',
   'mistral': 'mistralai/mistral-medium-3.5-128b',
-  'nemotron': 'nvidia/nemotron-3-nano-omni-30b-a3b-reasoning',
+  'nemotron': 'nvidia/nemotron-3.5-lightning-30b-a3b',
   'nemotron-ultra': 'nvidia/nemotron-3-ultra-550b-a55b',
+  'nemotron-super': 'nvidia/nemotron-3-super-120b-a12b',
   'gemma': 'google/gemma-4-31b-it'
 };
 
