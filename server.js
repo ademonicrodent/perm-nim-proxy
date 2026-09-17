@@ -38,7 +38,7 @@ const MODEL_MAPPING = {
   'gemini-pro': 'moonshotai/kimi-k2.5',
   'deepseek-v4': 'deepseek-ai/deepseek-v4-pro-0813',
   'deepseek-flash': 'deepseek-ai/deepseek-v4-flash-0731',
-  'glm': 'z-ai/glm-5.2',
+  'glm': 'z-ai/glm-5.3',
   'stepfun': 'stepfun-ai/step-3.7-flash',
   'minimax': 'minimaxai/minimax-m2.7',
   'mistral': 'mistralai/mistral-medium-3.5-128b',
