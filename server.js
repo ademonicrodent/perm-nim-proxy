@@ -45,7 +45,8 @@ const MODEL_MAPPING = {
   'nemotron': 'nvidia/nemotron-3.5-lightning-30b-a3b',
   'nemotron-ultra': 'nvidia/nemotron-3-ultra-550b-a55b',
   'nemotron-super': 'nvidia/nemotron-3-super-120b-a12b',
-  'gemma': 'google/gemma-4-31b-it'
+  'gemma': 'google/gemma-4-31b-it',
+  'dif-gemma': 'google/diffusiongemma-26b-a4b-it'
 };
 
 // Root endpoint
